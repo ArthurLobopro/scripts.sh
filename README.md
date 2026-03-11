@@ -1,2 +1,3 @@
 # scripts.sh
-Alguns scripts úteis feitos com ShellScript
+
+Repositório de scripts úteis feitos em ShellScript. Contribuições são bem vindas! :)
